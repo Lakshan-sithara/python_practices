@@ -25,4 +25,4 @@ def time_activity(*args, **kwargs):
 #    print(choice)
     print(f"You have to spend {min} for {kwargs[choice]}")
 
-time_activity(10, 20, 30, hobby="Dance", sport="Basketball", fun="Driving", Work="Devops")
+time_activity(10, 20, 30, hobby="Dance", sport="Basketball", fun="Driving", Work="Devops") 

@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01c7884e-2477-4008-85c1-3e1ff7c837c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/My Module.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variable Lenght Argument.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variable Lenght Argument.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,12 +203,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.Variable Lenght Argument" />
-      <item itemvalue="Python.functions part -1" />
-      <item itemvalue="Python.Built in method" />
       <item itemvalue="Python.Break &amp; continue" />
       <item itemvalue="Python.Break and continue Examples" />
+      <item itemvalue="Python.Built in method" />
+      <item itemvalue="Python.Variable Lenght Argument" />
+      <item itemvalue="Python.functions part -1" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -249,6 +247,7 @@
       <workItem from="1702896746611" duration="6027000" />
       <workItem from="1702995629915" duration="1920000" />
       <workItem from="1703137391120" duration="167000" />
+      <workItem from="1703161258811" duration="289000" />
     </task>
     <servers />
   </component>
